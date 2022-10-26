@@ -46,4 +46,5 @@ download('github:T-en1991/vue-js-frame', 'test', function (err) {
 ```
 ##### 3.3 运行index文件
 ### 四、全部代码参考
-https://github.com/T-en1991/usedownload-git-repo
+### 五、全部代码参考
+[github参考代码](https://github.com/T-en1991/usePackages/tree/main/useDownload-git-repo)

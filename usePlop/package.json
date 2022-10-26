@@ -1,0 +1,19 @@
+{
+  "name": "plop-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "plopCLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p": "plop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^3.1.8",
+    "inquirer": "^7.3.3",
+    "plop": "^2.7.6"
+  }
+}

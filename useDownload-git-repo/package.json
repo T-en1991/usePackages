@@ -1,0 +1,16 @@
+{
+  "name": "usedownload-git-repo",
+  "version": "1.0.0",
+  "description": "git下载vue模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js"
+  },
+  "keywords": [],
+  "author": "gute",
+  "license": "ISC",
+  "devDependencies": {
+    "download-git-repo": "^3.0.2"
+  }
+}

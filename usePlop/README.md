@@ -136,4 +136,4 @@ generator
 
 
 ### 五、 github地址
-[https://github.com/T-en1991/usePlop](https://note.youdao.com/)
+[github参考代码](https://github.com/T-en1991/usePackages/tree/main/usePlop)

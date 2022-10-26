@@ -110,4 +110,4 @@ const a=await oraPromise((spinner) => {
 
 ```
 ### 六、链接地址
-https://github.com/T-en1991/[useOra](https://note.youdao.com/)
+[github参考代码](https://github.com/T-en1991/usePackages/tree/main/useOra)
